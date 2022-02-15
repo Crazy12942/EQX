@@ -27,6 +27,6 @@
 
 14. 每條team都因爲點__樣list一個具體workload而煩，好多野係唔可以量化既，如果一個同事可以同時做2個case，但只可以入一個time log，呢個同事係咪唔做得野呢？
 
-15. 其實唔係個個site都真係夠人做到AB team依樣野 工作上要2-3個人做其實係唔好常見, smart hand 做equipment install要人手, NCC migration/de-install/smart hand 甩power 要double eyes, 我到底跟sop定AB team好?
+15. 其實唔係個個site都真係夠人做到AB team依樣野 工作上要2-3個人做其實係好常見, smart hand 做equipment install要人手, NCC migration/de-install/smart hand 甩power 要double eyes, 我到底跟sop定AB team好?
 
 16. 開IBX state黄色既定義係咩？
