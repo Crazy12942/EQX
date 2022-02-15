@@ -22,3 +22,11 @@
 11. Many FE are inputting fake data in Fong Hing just to show that their site is very busy, what data actually does fong hing want to get? Or just to monitor FE's performance?
 
 12. Can we have a list of vendors with contact info, which subject they respond to, and also the budget code for reference? We want a more clear guideline.
+
+13. Planner同Fong Hing都係mark 緊你嘅工作內容 既然係咁 可唔可以stop咗其中一樣? 依家個情況係 當我原本件事用5分鐘做得掂 但係依家就變咗10分鐘 因為有一半時候都用咗黎做input data依樣野, 變相多咗一倍workload
+
+14. 每條team都因爲點__樣list一個具體workload而煩，好多野係唔可以量化既，如果一個同事可以同時做2個case，但只可以入一個time log，呢個同事係咪唔做得野呢？
+
+15. 其實唔係個個site都真係夠人做到AB team依樣野 工作上要2-3個人做其實係唔好常見, smart hand 做equipment install要人手, NCC migration/de-install/smart hand 甩power 要double eyes, 我到底跟sop定AB team好?
+
+16. 開IBX state黄色既定義係咩？
