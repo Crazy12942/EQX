@@ -23,9 +23,9 @@
 
 12. Can we have a list of vendors with contact info, which subject they respond to, and also the budget code for reference? We want a more clear guideline.
 
-13. Planner同Fong Hing都係mark 緊你嘅工作內容 既然係咁 可唔可以stop咗其中一樣? 依家個情況係 當我原本件事用5分鐘做得掂 但係依家就變咗10分鐘 因為有一半時候都用咗黎做input data依樣野, 變相多咗一倍workload
+13. Planner同Fong Hing都係mark 緊你嘅工作內容 既然係咁 可唔可以stop咗其中一樣? 依家個情況係 當我原本件事用5分鐘做得掂 但係依家就變咗10分鐘 因為有一半時候都用咗黎做input data依樣野, 變相多咗一倍workload. 同埋點解每次有增多同減少都要解釋，會唔會有一個空間係例如+-10%就無需要跟進？
 
-14. 每條team都因爲點__樣list一個具體workload而煩，好多野係唔可以量化既，如果一個同事可以同時做2個case，但只可以入一個time log，呢個同事係咪唔做得野呢？
+14. 每條team都因爲點__樣list一個具體workload而煩，好多野係唔可以量化既，如果一個同事可以同時做2個case，但只可以入一個time log，呢個同事係咪唔做得野呢？對於公司黎講，每一個人係咪要100%workload先算正常？
 
 15. 其實唔係個個site都真係夠人做到AB team依樣野 工作上要2-3個人做其實係好常見, smart hand 做equipment install要人手, NCC migration/de-install/smart hand 甩power 要double eyes, 我到底跟sop定AB team好?
 
