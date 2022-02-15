@@ -14,3 +14,11 @@
 7. The Gov is pushing the vaccine injection rate, will the company advise staff to take the vaccine as well? Will our operation staff got banned from work if they still didn't get the vaccine?
 
 8. One of the FE123 promotion criteria are the innovative idea, however, this criteria already run for a long time, some of the FE are suffering in thinking of new idea. Can they choose not to present the innovative idea when they have a longer working experience plus a lower priority in the promotion list?
+
+9. How come Senior FE4 removed the "Senior" in the title and renamed it into just an FE4? Is it global think that FE4 don't deserve "Senior"? On our side, seems it is the same meaning as "降grade".
+
+10. Can we have a clear excel list for the role in ops-admin? In operation, sometimes we actually don't know which ops-admin we have to look for(facilitator/cleaning/expense).
+
+11. Many FE are inputting fake data in Fong Hing just to show that their site is very busy, what data actually does fong hing want to get? Or just to monitor FE's performance?
+
+12. Can we have a list of vendors with contact info, which subject they respond to, and also the budget code for reference? We want a more clear guideline.
